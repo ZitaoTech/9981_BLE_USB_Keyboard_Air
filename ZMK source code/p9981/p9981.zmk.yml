@@ -1,0 +1,11 @@
+file_format: "1"
+id: p9981
+name: p9981
+type: board
+arch: arm
+features:
+  - keys
+outputs:
+  - usb
+  - ble
+url: https://github.com/ZitaoTech/BBQ10-USB_BLE_Keyboard
