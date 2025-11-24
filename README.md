@@ -50,6 +50,38 @@ How to check the Bluetooth version of your device: google (your device name) lik
 **Now let's check the keymap.**  
 ## Keymap [🔼](#contents)
 **Layer0-QWERTY**    
+<p align="center">
+  <img src="https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Air/blob/main/Pic/9981_air_Layer0.png" width="100%" alt="9981_PRO_layer0">
+</p>
+
+> [!NOTE]
+> - **What means sticky ctrl?** If you want to copy something, you can tap Ctrl and then tap C, the keyboard will triger Ctrl+C, you can do that with one hand.  
+> - **What means sticky layer?** A sticky layer stays pressed until another key is pressed. Example: when you short type sym key, the keyboard will enter sticky layer1 after you type the "B" key, the keyboard will type "!" and return to layer0, it's easier to type with one hand.  
+> - **What means lock layer?** The "lock layer" behavior enables a layer while a certain key is pressed. Example: when you want to type many numbers you can hold the sym key and tap "WER" and the keyboard will type "123", when you release the sym key, the keyboard will return to layer 0.  
+> - **What means to layer?** By default when you double tap the dollar key, the keyboard will go to layer 1, then you can type numbers without pressing the sym key, you need to manually return to layer0 by tap the sym key at layer1.
+
+**Layer1-Numbers and symbols**    
+<p align="center">
+<img src="https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Air/blob/main/Pic/9981_air_Layer1.png" width="100%" alt="9981_PRO_layer1"> 
+</p>
+
+**Layer2-Functional keys**   
+<p align="center">
+<img src="https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Air/blob/main/Pic/9981_air_Layer2.png" width="100%" alt="9981_PRO_layer2">  
+</p>
+
+> [!NOTE]
+> - **What does Eject key do?** When you press E at layer 2, the keyboard will type Eject, Eject can ```bring up``` or ```disable``` keyboard on screen on iphone, this key is important because on iphone by default the keyboard on screen is disable when iphone is connected withe external keyboard.
+> - Double tap the ```space key``` on this layer which trigger the ```Clear bluetooth pairing``` is very important to pair with another device more info please check the content [How to connect this keyboard with your device](How-to-connect-this-keyboard-with-your-device-)
+
+**Layer3-Reserved layer for extra keys**   
+<p align="center">
+<img src="https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Air/blob/main/Pic/9981_air_Layer3.png" width="100%" alt="9981_PRO_layer3"> 
+</p>
+
+> [!NOTE]
+> - You enter Layer 3 by double tap dollar key at layer 1, you can customize how to enter this layer yourself by editting the keymap.  
+> - You can set some key at this layer as Media key like ```next song``` or ```pause``` which I think should be useful.
 
 ## How to connect this keyboard with your device [🔼](#contents)
 - Turn on the Bluetooth on your phone
@@ -67,6 +99,7 @@ By default the keyboard can only be paired with 1 device at the same time. But y
 <img height="400"  src="https://github.com/user-attachments/assets/7f99c32e-cdc5-490e-a8d0-8e034084d935" />
 </p>
 And here are the steps how to connect with other devices:  
+
 
 1. Assume you have already connected this keyboard with one device
 2. press the BT_SEL_1 keycode
