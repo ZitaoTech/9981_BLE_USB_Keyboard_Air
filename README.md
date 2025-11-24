@@ -13,6 +13,17 @@ The fully open-sourced P9981 BLE&USB Air Keyboard is the smallest ZMK-powered ke
 
 ## Contents
 - [About this keyboard](#About-this-keyboard-)
+- [Before you buy/use](#before-you-buyuse-)
+- [Where to buy](#where-to-buy-)
+- [How to use this keyboard and keymap](#how-to-use-this-keyboard-)
+- [How to connect this keyboard with your device](#how-to-connect-this-keyboard-with-your-device-)
+- [Multi device connect](#multi-device-connect-)
+- [USB&BLE Output select](#usbble-output-select-)
+- [Keymap updating](#realtime-keymap-updating-)
+- [Advanced methods of using this keyboard](#advanced-methods-of-using-this-keyboard-)
+- [Troubleshoot](#troubleshoot-)
+- [Dimension and weight](#dimensions-of-the-keyboard-)
+- [Inspiration ](#inspiration-)
 
 
 # About this keyboard [🔼](#contents)
