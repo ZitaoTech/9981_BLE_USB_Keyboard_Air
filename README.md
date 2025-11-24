@@ -124,7 +124,7 @@ Similarly, you can pair this keyboard with a third and a fourth device.
 > - The BT_CLEAR keycoode — which is triggered by double-tapping the ```space key`` on Layer 2 — is calculated independently for each device. This means that when you trigger BT_CLEAR while connected to the second device, it won’t affect any of the other devices.
 
 ## USB&BLE Output select [🔼](#contents)
-The keyboard supports both USB and BLE output, by default the output is BLE. Assume the keyboard is both connected with a PC and paired with a phone, you can toggle the output by double-tapping the dollar key at layer2, if the output is USB the trackpad led will start blinking every second.
+The keyboard supports both USB and BLE output, by default the output is BLE. Assume the keyboard is both connected with a PC and paired with a phone, you can toggle the output by double-tapping the dollar key at layer2.
 
 ## Realtime Keymap Updating [🔼](#contents)
 [ZMK Studio](https://zmk.dev/docs/features/studio) provides runtime update functionality to ZMK powered devices, allowing users to change their keymap layers without flashing new firmware to their keyboards.  
