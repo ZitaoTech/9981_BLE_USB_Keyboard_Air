@@ -166,6 +166,6 @@ The picture below shows the outerline dimension of the keyboard
 The total weight of the keyboard is 39.8 g
 
 # Inspiration [🔼](#contents) 
-This [page](https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Air/tree/main/Inspiration)shows what the keyboard can do besides functioning as a standalone Bluetooth keyboard.
+This [page](https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Air/tree/main/Inspiration) shows what the keyboard can do besides functioning as a standalone Bluetooth keyboard.
 
 
