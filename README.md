@@ -51,7 +51,7 @@ How to check the Bluetooth version of your device: google (your device name) lik
  <img src="https://github.com/ZitaoTech/BB9900-USB_BLE_Keyboard/blob/main/Pics/BLE%20VERSION%20check.png" width = "500" alt="BLE VERSION CHECK" align=center />
 
 ## Where to buy [🔼](#contents)
-- **If you are outside China**: You can buy the keyboard at Elecrow    
+- **If you are outside China**: You can buy the keyboard at [Elecrow](https://www.elecrow.com/p9981-ble-usb-keyboard-air.html)    
 - **If you are in China**: 在闲鱼搜索用户御坂200016号
 
 # How to use this keyboard [🔼](#contents)
