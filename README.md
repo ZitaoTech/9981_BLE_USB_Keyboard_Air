@@ -39,7 +39,7 @@ This mini Keyboard uses the cloned P9981 keycap and powered by the NRF52840 Micr
 |USB&BLE Output|Support both wired and wireless connect|
 |Small size| The smallest wireless keyboard in the world|
 |Aluminium body|The top case is made of aluminium, lower case 3d printed|
-|Open source| [Hardware]and [software](https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Air/tree/main/ZMK%20source%20code)all open sourced|
+|Open source| [Hardware](https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Air/tree/main/Hardware)and [software](https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Air/tree/main/ZMK%20source%20code)all open sourced|
 |__NKRO__|__There are integrated diodes on the keyboard, all the keys can be pressed at the same time__(Other original Blackberry keyboards don't have this feature)|
 
 ## Before you buy/use [🔼](#contents)
