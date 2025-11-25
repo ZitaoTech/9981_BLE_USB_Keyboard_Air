@@ -1,5 +1,7 @@
 # P9981 BLE&USB Keyboard Air ⌨️
 The fully open-sourced P9981 BLE&USB Air Keyboard is the smallest ZMK-powered keyboard and features n-Key rollover that other original blackberry keyboards don't have!
+
+### [You might also be interested in P9981 Keyboard Pro](https://github.com/ZitaoTech/9981_BLE_USB_Keyboard_Pro/tree/main)
 # Image Gallery
 <img src="https://github.com/user-attachments/assets/31d46916-c757-48cd-9737-19a4e9769f6e" />
 
